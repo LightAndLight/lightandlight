@@ -10,5 +10,5 @@ developer tooling because it contributes to a cycle of self improvement within s
 ## Projects
 
 My 'academic' roots lie in programming language theory and type theory. As a result, all of my biggest
-personal projects have been programming languages. See my 'pinned' repositories for
+personal projects have been programming languages, or programming language related. See my 'pinned' repositories for
 a selection of my favourite projects.
