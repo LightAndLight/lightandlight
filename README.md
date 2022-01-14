@@ -8,7 +8,7 @@ I enjoy building things that make people more effective. I'm particularly passio
 developer tooling because it contributes to a cycle of self improvement within software development.
 
 Currently open to opportunities. I strongly prefer in-person collaboration, and will still consider
-remote work. Cryptocurrency/blockchain are a hard no.
+remote work. No cryptocurrency/blockchain work.
 
 ## Projects
 
