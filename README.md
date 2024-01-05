@@ -2,7 +2,7 @@
 
 *He/Him*
 
-I'm a 27 year old software developer living in Brisbane, Australia.
+I'm a programmer living in Brisbane, Australia.
 
 I enjoy building things that make people more effective. I'm particularly passionate about
 developer tooling because it contributes to a cycle of self improvement within software development.
